@@ -1,7 +1,6 @@
 demo_inputs
 models_cpu
 models_gpu
-output
 
 *.bmp
 *.jpg
